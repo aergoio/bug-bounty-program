@@ -64,3 +64,9 @@ Via your own application:
 ### Blockchain Explorer
 
 If you are using the testnet instead of a local server/network, you can use the Aergo blockchain explorer: [AergoScan](https://testnet.aergoscan.io/)
+
+
+## Contact
+
+If you have any problem, you can make technical questions on [Discord](https://discord.com/invite/YuPCCeH)
+ 

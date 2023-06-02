@@ -58,6 +58,29 @@ This includes DoS attacks, spamming, phishing, etc.
 
 To ensure that any disclosure of vulnerabilities happens in a responsible manner, do not discuss any vulnerabilities (even resolved ones) outside of the program without express consent from the Aergo Foundation. Failure to adhere to the Disclosure Policy will result in the forfeiture of any eligible reward.
 
+To report a vulnerability, please send an email to [tech@aergo.io](mailto:tech@aergo.io)
+
+You can also chat with us about technical questions on [Discord](https://discord.com/invite/YuPCCeH)
+
+## Rewards
+
+The bounties are separated in 3 categories:
+
+1. Exploits that can move, create or destroy funds (tokens) without authorization
+2. Exploits that can make a smart contract or the network to stop working
+3. Exploits that can interfere with the normal behavior of a smart contract
+
+The rewards are:
+
+| Vulnerability | Bounty |
+| --- | --- |
+| Critical | $5,000 |
+| High | $3,000 |
+| Medium | $1,000 |
+| Low | $250 |
+
+The Aergo Foundation will determine at its discretion whether a reward should be granted and the amount of the reward. Rewards may be reduced or denied if the submission is incomplete or inaccurate and does not allow us to quickly reproduce and validate the finding.
+
 ## Safe Harbor
 
 Any activities conducted in a manner consistent with this policy will be considered authorized conduct and we will not initiate legal action against you for such authorized conduct.

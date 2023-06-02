@@ -15,22 +15,30 @@ The Aergo blockchain uses the Lua 5.1 version, but some features are disabled.
 
 ## Learning
 
-The first step is to watch [this video](https://www.youtube.com/watch?v=PWc_m544JtU) about how to write a simple smart contract
+The first step is to watch this video about how to write a simple smart contract:
 
-And then [this video](https://www.youtube.com/watch?v=nVkxTAt08HE) to deploy it to the blockchain
+[![Your First Smart Contract in Lua](https://img.youtube.com/vi/PWc_m544JtU/0.jpg)](https://www.youtube.com/watch?v=PWc_m544JtU)
+
+And then this one to deploy it to the blockchain:
+
+[![How To Deploy Your Smart Contract](https://img.youtube.com/vi/nVkxTAt08HE/0.jpg)](https://www.youtube.com/watch?v=nVkxTAt08HE)
 
 
 ## Aergo Tools
+
+### Creating and Deploying Contracts
 
 To create and deploy smart contracts easily, you can use the [Aergo IDE](https://ide.aergo.io/)
 
 You can also compile the contracts locally with the `aergoluac` command line tool, which can be downloaded [here](https://github.com/aergoio/aergo/releases)
 
+### Running a Local Server
+
 The Aergo blockchain can be run locally with the `aergosvr` command line tool, downloadable on the same link above.
 
 The Aergo blockchain can also be [run locally with Docker](https://aergo.readthedocs.io/en/2.2/running-node/quickstart.html?highlight=docker#using-docker)
 
-To interact with the blockchain, you can use:
+### Interacting with the blockchain
 
 On the web:
 
@@ -53,5 +61,6 @@ Via your own application:
 * [Ruby](https://github.com/aergoio/libaergo)
 * [PHP](https://github.com/aergoio/heraphp)
 
+### Blockchain Explorer
 
-The Aergo blockchain explorer is [AergoScan](https://testnet.aergoscan.io/)
+If you are using the testnet instead of a local server/network, you can use the Aergo blockchain explorer: [AergoScan](https://testnet.aergoscan.io/)

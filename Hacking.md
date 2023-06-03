@@ -60,6 +60,7 @@ Via your own application:
 * [Swift](https://github.com/aergoio/libaergo)
 * [Ruby](https://github.com/aergoio/libaergo)
 * [PHP](https://github.com/aergoio/heraphp)
+* [Lua](https://github.com/aergoio/libaergo-lua)
 
 ### Blockchain Explorer
 

@@ -15,16 +15,25 @@ The Aergo blockchain uses the Lua 5.1 version, but some features are disabled.
 
 ## Learning
 
-The first step is to watch this video about how to write a simple smart contract:
+First watch this short video about how to write a simple smart contract:
 
 [![Your First Smart Contract in Lua](https://img.youtube.com/vi/PWc_m544JtU/0.jpg)](https://www.youtube.com/watch?v=PWc_m544JtU)
 
-And then this one to deploy it to the blockchain:
+The simplest method to try hacking the aergo engine is by using the [brick](https://github.com/aergoio/aergo/tree/develop/cmd/brick) tool
+
+![brick](https://github.com/aergoio/aergo/blob/develop/cmd/brick/brick_ex.gif)
+
+If you prefer to deploy the contracts to the blockchain (use the testnet for tests) then watch this video:
 
 [![How To Deploy Your Smart Contract](https://img.youtube.com/vi/nVkxTAt08HE/0.jpg)](https://www.youtube.com/watch?v=nVkxTAt08HE)
 
 
 ## Aergo Tools
+
+### General Tool
+
+Instead of running a local server or using the test network, you can make your experiments using
+[brick](https://github.com/aergoio/aergo/tree/develop/cmd/brick). It can be downloaded [here](https://github.com/aergoio/aergo/releases)
 
 ### Creating and Deploying Contracts
 

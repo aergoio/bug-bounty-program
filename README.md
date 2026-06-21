@@ -1,5 +1,9 @@
 # Aergo Bug Bounty Program
 
+> :warning: ATTENTION! The bug bounty was **DISCONTINUED!**
+>
+> What is written bellow is for historical reasons only
+
 Please carefully review these **rules**, as they will govern any report you submit.
 
 ## Reports
